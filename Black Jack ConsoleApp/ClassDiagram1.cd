@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FinalExam_Part2.CardSet">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAAAAAAAAAAAAQAAAAEAAQAAAAAAAAAA=</HashCode>
+      <FileName>CardSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalExam_Part2.IO">
+    <Position X="13" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAgIAICQAAAAACgAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalExam_Part2.BL">
+    <Position X="11.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAgAAAAAQAAIAAAAAEAAAAAAAAAAAAAAACAAgAAAI=</HashCode>
+      <FileName>BL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalExam_Part2.ClubCard">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card\ClubCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalExam_Part2.Player">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBAQIBAAAAAAAAAAAEAAAAAAAAAEACBAAAAAEEAAAAA=</HashCode>
+      <FileName>Player\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalExam_Part2.User">
+    <Position X="9" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Player\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalExam_Part2.SpadesCard">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card\SpadesCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalExam_Part2.HeartsCard">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card\HeartsCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalExam_Part2.DiamondsCard">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card\DiamondsCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalExam_Part2.Card">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card\Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="FinalExam_Part2.CardValue" Collapsed="true">
+    <Position X="2" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAggAAAEAAEAIAAAAAFBAAAAAgAAAgAAEE=</HashCode>
+      <FileName>Card\CardValue.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FinalExam_Part2.CardSuit" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAEAAAAAAAAABAAAAAAAAAQAAAAAAAAAACA=</HashCode>
+      <FileName>Card\CardSuit.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
